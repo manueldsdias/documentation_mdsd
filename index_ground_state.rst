@@ -12,6 +12,7 @@ Ground State Calculation Setup
 
    pseudoatomic_solver.rst
    kpoints_and_spin.rst
+   symmetry.rst
    conduction.rst
    onetep_edft_documentation.rst
    AQUA-FOE.rst
@@ -22,6 +23,8 @@ Ground State Calculation Setup
    implicit_solvation_v3.rst
    hfx.rst
    cutoff_coulomb.rst
+   dipole_correction.rst
    scissor_operator.rst
    EMFT_in_ONETEP.rst
+   recip_precond.rst
 
