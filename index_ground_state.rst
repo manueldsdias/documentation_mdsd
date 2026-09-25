@@ -13,6 +13,7 @@ Ground State Calculation Setup
    pseudoatomic_solver.rst
    kpoints_and_spin.rst
    symmetry.rst
+   ngwf_optimisation.rst
    conduction.rst
    onetep_edft_documentation.rst
    AQUA-FOE.rst
@@ -22,6 +23,7 @@ Ground State Calculation Setup
    realspace_local_pseudo.rst
    implicit_solvation_v3.rst
    hfx.rst
+   mgga.rst
    cutoff_coulomb.rst
    dipole_correction.rst
    scissor_operator.rst
